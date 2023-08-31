@@ -1,0 +1,10 @@
+en:
+  errors:
+    username_unique?: This username is already registered
+    email_unique?: This email is already used
+    datetime?: Should have a date time format
+    session:
+      wrong_credentials: Incorrect username or(and) password
+  deadline_notification_mailer:
+    send_email:
+      subject: Deadline notification
